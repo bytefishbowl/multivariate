@@ -7,3 +7,7 @@ multivariate statistic analysis team project
 
 * Hotel Booking demand
 * from : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
+
+# EDA
+
+* due 5/22
