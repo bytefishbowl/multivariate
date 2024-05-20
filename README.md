@@ -6,4 +6,4 @@ multivariate statistic analysis team project
 # dataset
 
 * Hotel Booking demand
-* https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
+* from : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download
